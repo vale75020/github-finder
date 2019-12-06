@@ -23,7 +23,6 @@ export default class User extends Component {
       name,
       company,
       avatar_url,
-      url,
       location,
       bio,
       blog,
